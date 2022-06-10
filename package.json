@@ -20,11 +20,16 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@walletconnect/web3-provider": "^1.7.8",
+    "@web3auth/web3auth": "^1.0.1",
     "clsx": "^1.1.1",
+    "magic-sdk": "^8.1.1",
+    "moralis": "^1.8.0",
     "next": "^12.1.6",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-icons": "^4.4.0",
+    "react-moralis": "^1.4.0",
     "tailwind-merge": "^1.2.1"
   },
   "devDependencies": {
